@@ -1313,7 +1313,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mediampd/TvNHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/7Jk0RZ9.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="TVAlhijrah" tvg-name="Al-Hijrah", Al-Hijrah
 https://gist.githubusercontent.com/warningfm/fb30c7f87f9a7730154c9e55a1946478/raw/e1fd341274671f75f91fd0810180afcf508c99b2/TvAlhijrah.m3u8
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/33.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/vklYc3t.png?v=1.0.0.1" group-title="🇲🇾 Malaysia" tvg-id="AstroAwani" tvg-name="Astro Awani", Astro Awani
@@ -1469,20 +1468,7 @@ https://i.mjh.nz/.r/discovery-fast6.m3u8
 
 ########################################################           GO3 Sport Pack           ########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OmqilEG.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="GO3 Sport 1 (LT).lt" tvg-name="GO3 Sport 1 (LT).lt", Go3 Sport 1
-https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
-#http://de.online24.pm/play/6718/0E5BF0B5A9755BD/video.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iebbgI6.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="GO3 Sport 2 (LT).lt" tvg-name="GO3 Sport 2 (LT).lt", Go3 Sport 2
-https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
-#http://de.online24.pm/play/6719/0E5BF0B5A9755BD/video.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1NpWQS.png" group-title="GO3 Sport Pack" group-logo="https://iili.io/3gTEq4n.png" tvg-id="tv3-sport-open.id", GO3 Sport OPEN
-https://cdn.nng.cloudns.us/live/m3u8/op/7335edf66aba711.m3u8
-#http://de.online24.pm/play/6722/0E5BF0B5A9755BD/video.m3u8
 
 ########################################################           TNT Sport Pack           ########################################################
 
